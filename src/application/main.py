@@ -1,0 +1,1 @@
+from fastapi import FastAPI\napp = FastAPI()\n@app.get("/healthz")\nasync def health():\n    return {"status":"ok"}\n
