@@ -1,0 +1,1 @@
+class HTTPAdapter:\n    pass\n
