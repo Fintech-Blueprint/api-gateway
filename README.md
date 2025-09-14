@@ -1,1 +1,1 @@
-# api-gateway
+# api-gateway\n\nAPI Gateway service: routing, auth, WAF integration.\n
